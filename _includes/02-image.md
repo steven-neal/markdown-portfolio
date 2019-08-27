@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a cool Seebee](http://www.rhinoden.com/wp-content/uploads/2012/08/Seabee.jpg)
