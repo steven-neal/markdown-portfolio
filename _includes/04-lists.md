@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. TV Shows
+2. Movies
+3. Music
+  i. Pop
+  ii. Rap
+  iii. Country
